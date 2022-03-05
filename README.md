@@ -54,5 +54,6 @@ This data set is from https://www.lyft.com/bikes/bay-wheels/system-data. This pr
 nbviewer Link: https://nbviewer.jupyter.org/gist/BaekKyunShin/dd7c5e94b71ce20af0d8525c4f5c1e66
 
 # Certificate
+<img width="957" alt="image" src="https://user-images.githubusercontent.com/40656125/156870079-a002f084-e189-4986-903e-f07875f67b94.png">
 
 https://graduation.udacity.com/confirm/P3DYGCAR
