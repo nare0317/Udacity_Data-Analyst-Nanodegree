@@ -4,30 +4,33 @@ Udacity Data Analyst Nanodegree (DAND) course repository included projects on TM
 Course link ->  https://www.udacity.com/course/data-analyst-nanodegree--nd002
 
 # Environments
-----
 Anaconda Jupyter Notebook
 
 ### Installation
 Download Anaconda
 Download Anaconda Distribution from https://www.anaconda.com/distribution/
 
-### Upgrade Conda
+#### Upgrade Conda
 Open Anaconda Prompt
-
-'''
+```
 conda upgrade conda
 conda upgrade --all
-'''
+```
 
-### Install required packages
-'''
+#### Install required packages
+```
 conda install numpy pandas matplotlib seaborn requests statsmodels patsy
-'''
+```
 
-Install Jupyter notebook
+#### Install Jupyter notebook
+```
 conda install jupyter notebook
-Run Jupyter notebook
+```
+#### Run Jupyter notebook
+```
 jupyter notebook
+```
+
 Upload my ipynb files to your jupyter environment to run my projects or other codes.
 
 # Project Descriptions
