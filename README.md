@@ -6,7 +6,7 @@ Course link ->  https://www.udacity.com/course/data-analyst-nanodegree--nd002
 # Environments
 Anaconda Jupyter Notebook
 
-### Installation
+## Installation
 
 #### Download Anaconda
 Download Anaconda Distribution from https://www.anaconda.com/distribution/
