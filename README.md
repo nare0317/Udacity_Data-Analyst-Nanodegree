@@ -42,7 +42,7 @@ Compare the Korean temperature to global average temperature with moving average
 ### Project 2 - Investigate a TMDB 5000 Movie Dataset
 This is Kaggle problem. Dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. A number of characteristics about the patient are included in each row. There are 14 features in this dataset. The purpose of this analysis is that what factors are important for us to know in order to predict if a patient will show up for their scheduled appointment.
 
-[See nbviewer Link here](https://nbviewer.org/github/nare0317/Udacity_Data-Analyst-Nanodegree/blob/main/Project%202%20-%20EDA%20-%20Investigate%20a%20TMDB%205000%20Movie%20Dataset/Investigate%20a%20TMDB%205000%20Movie%20Dataset_v4.ipynb)
+[See Projects nbviewer here](https://nbviewer.org/github/nare0317/Udacity_Data-Analyst-Nanodegree/blob/main/Project%202%20-%20EDA%20-%20Investigate%20a%20TMDB%205000%20Movie%20Dataset/Investigate%20a%20TMDB%205000%20Movie%20Dataset_v4.ipynb){:target="_blank"}
 
 ### Project 3 - Analyze A/B Test Results
 A/B tests are very commonly performed by data analysts and data scientists. For this project, you will be working to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. Your goal is to work through this notebook to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
