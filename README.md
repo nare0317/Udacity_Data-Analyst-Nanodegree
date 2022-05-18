@@ -44,18 +44,18 @@ This data set is from [Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-m
 ### Project 2 - Analyze A/B Test Results
 A/B tests are very commonly performed by data analysts and data scientists. For this project, you will be working to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. Your goal is to work through this notebook to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
-[See Projects nbviewer here](https://nbviewer.org/github/nare0317/Udacity_Data-Analyst-Nanodegree/blob/main/Project%204%20-%20Wrangling%20-%20WeRateDogs/wrangle_act.ipynb)
+[See Projects nbviewer here](https://nbviewer.org/github/nare0317/Udacity_Data-Analyst-Nanodegree/blob/main/Project%202%20-%20Statistics%20-%20A%3AB%20Test/Analyze_ab_test_results_notebook_v2.ipynb)
 
 ### Project 3 - Twitter WeRateDog API data Wrangling
 This project is for wrangling data. There are three data sets. Two of them are given by Udacity (which are 'twitter-archive-enhanced.csv, image-predictions.tsv), one of them can be taken through 'twitter-API' which is about retweet counts and favorite counts. Those data sets are not cleaned yet. In other words, Those are dirty and messy. The purpose of this project is cleaning the dirty and messy data.
 
-[See Projects nbviewer here](https://nbviewer.org/github/nare0317/Udacity_Data-Analyst-Nanodegree/blob/main/Project%204%20-%20Wrangling%20-%20WeRateDogs/wrangle_act.ipynb)
+[See Projects nbviewer here](https://nbviewer.org/github/nare0317/Udacity_Data-Analyst-Nanodegree/blob/main/Project%203%20-%20Wrangling%20-%20WeRateDogs/wrangle_act.ipynb)
 
 ### Project 4 - Prosper Loan Data (Visualization)
 This data set contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others. See this [data dictionary](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0) to understand the dataset's variables.. 
 This project demonstrates the importance and value of data visualization techniques in the data analysis process. I used Python visualization libraries to systematically explore a selected dataset, starting from plots of single variables and building up to plots of multiple variables. 
 
-[See Projects nbviewer here](https://nbviewer.org/github/nare0317/Udacity_Data-Analyst-Nanodegree/blob/main/Project%205%20-%20Visualization%20-%20Prosper%20Loan%20Data/Prosper-Loan-Data-Exploration.ipynb)
+[See Projects nbviewer here](https://nbviewer.org/github/nare0317/Udacity_Data-Analyst-Nanodegree/blob/main/Project%204%20-%20Visualization%20-%20Prosper%20Loan%20Data/Prosper-Loan-Data-Exploration.ipynb)
 
 # Certificate
 <img width="957" alt="image" src="https://user-images.githubusercontent.com/40656125/156870079-a002f084-e189-4986-903e-f07875f67b94.png">
