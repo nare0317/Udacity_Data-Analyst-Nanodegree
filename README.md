@@ -37,9 +37,9 @@ Upload my ipynb files to your jupyter environment to run my projects or other co
 # Project Descriptions
 
 ### Project 1 - Investigate a TMDB 5000 Movie Dataset
-This is Kaggle problem. Dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. A number of characteristics about the patient are included in each row. There are 14 features in this dataset. The purpose of this analysis is that what factors are important for us to know in order to predict if a patient will show up for their scheduled appointment.
+This data set is from [Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata). This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue. I analyzed the movie data to get the answers to - Which movie was the most popular in each decade, Which movie earned the most revenue compared to budget, Which genre of movie got the highest or lowest vote average, and Is a certain month of release date associated with higer revunue or higer vote average.
 
-[See Projects nbviewer here](https://nbviewer.org/github/nare0317/Udacity_Data-Analyst-Nanodegree/blob/main/Project%202%20-%20EDA%20-%20Investigate%20a%20TMDB%205000%20Movie%20Dataset/Investigate%20a%20TMDB%205000%20Movie%20Dataset_v4.ipynb)
+[See Projects nbviewer here](https://nbviewer.org/github/nare0317/Udacity_Data-Analyst-Nanodegree/blob/main/Project%201%20-%20EDA%20-%20Investigate%20a%20TMDB%205000%20Movie%20Dataset/Investigate%20a%20TMDB%205000%20Movie%20Dataset_v4.ipynb)
 
 ### Project 2 - Analyze A/B Test Results
 A/B tests are very commonly performed by data analysts and data scientists. For this project, you will be working to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. Your goal is to work through this notebook to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
@@ -52,7 +52,8 @@ This project is for wrangling data. There are three data sets. Two of them are g
 [See Projects nbviewer here](https://nbviewer.org/github/nare0317/Udacity_Data-Analyst-Nanodegree/blob/main/Project%204%20-%20Wrangling%20-%20WeRateDogs/wrangle_act.ipynb)
 
 ### Project 4 - Prosper Loan Data (Visualization)
-This data set is from https://www.lyft.com/bikes/bay-wheels/system-data. This project demonstrates the importance and value of data visualization techniques in the data analysis process. You will use Python visualization libraries to systematically explore a selected dataset, starting from plots of single variables and building up to plots of multiple variables. The primary method of conveying your findings will be through transforming your exploratory visualizations into polished, explanatory visualizations.
+This data set contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others. See this [data dictionary](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0) to understand the dataset's variables.. 
+This project demonstrates the importance and value of data visualization techniques in the data analysis process. I used Python visualization libraries to systematically explore a selected dataset, starting from plots of single variables and building up to plots of multiple variables. 
 
 [See Projects nbviewer here](https://nbviewer.org/github/nare0317/Udacity_Data-Analyst-Nanodegree/blob/main/Project%205%20-%20Visualization%20-%20Prosper%20Loan%20Data/Prosper-Loan-Data-Exploration.ipynb)
 
